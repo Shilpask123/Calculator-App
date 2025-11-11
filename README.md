@@ -28,8 +28,8 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 1. **Clone** this repository:  
    ```bash
-   git clone https://github.com/yourusername/CalculatorApp.git
-
+   git clone https://github.com/Shilpask123/Calculator-App.git
+  
 2. Open the project in your IDE (like IntelliJ IDEA or Eclipse).
 
 3. Run the file:
