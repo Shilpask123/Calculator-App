@@ -39,7 +39,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ---
 
-#🧾 Sample Output
+## 🧾 Sample Output
 
 ===== Simple Calculator =====
 
