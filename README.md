@@ -39,13 +39,19 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ---
 
-##🧾 Sample Output
+#🧾 Sample Output
 
 ===== Simple Calculator =====
+
 Enter first number: 10
+
 Enter second number: 5
+
 Enter an operator (+, -, *, /, %): *
+
 Result: 50.0
+
 Do you want to perform another calculation? (yes/no): no
+
 Thank you for using the calculator!
 
